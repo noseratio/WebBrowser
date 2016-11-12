@@ -1,3 +1,6 @@
+// Coded by Andrew Nosenko (https://plus.google.com/+AndrewNosenko) 
+// Licensed under ISC license (https://opensource.org/licenses/ISC)
+
 using Microsoft.Win32;
 using System;
 using System.Threading;
